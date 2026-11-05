@@ -1,0 +1,12 @@
+{
+  "name": "steve-claude-code",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Quality gates and senior-engineer habits for Claude Code, delivered as skills, commands, agents, and a safety hook.",
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node --test"
+  }
+}
